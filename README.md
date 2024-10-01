@@ -2,7 +2,7 @@
 Add Wikipedia-style [citation needed] blocks to your LaTeX documents!
 
 # Installation / Usage
-Copy/Paste the contents of citation.tex into your own LaTeX document preamble.
+Copy/Paste the contents of `citation.tex` into your own LaTeX document preamble.
 
 To insert a [citation needed] block, use the command `\cite{NEEDED}`
 
