@@ -1,3 +1,5 @@
+![Citation Needed](https://imgs.xkcd.com/comics/wikipedian_protester.png)
+
 # citation-needed
 Add Wikipedia-style [citation needed] blocks to your LaTeX documents!
 
